@@ -1,3 +1,3 @@
 # Dummy
 this is my first repo <br>
-Autthor - Mohamed Ayub
+Autthor - Mohamed Ayub M
